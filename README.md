@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vini500300
 - 👀 I’m interested in coding so I can automate things in my work and also so I can get experience with code for the future 
-- 🌱 I’m currently learning pythin
+- 🌱 I’m currently learning python
 - 📫 How to reach me:
-e-mail: viniperes45@hotmail.com
+e-mail: viniperes45@icloud.com
 
 <!---
 vini500300/vini500300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
